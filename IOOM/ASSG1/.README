@@ -1,0 +1,10 @@
+In this project, program is stored in two different files with declaration in the "base.h" header file.
+
+The Main function of the program is stored in the assg1.cpp
+The Classes , its member variables and the functions have been written in classes.cpp file.
+
+To Execute the program , open the directory in the Ubuntu Terminal and execute the following commands.
+1. make compilep
+	This command will command will compile the program.
+2. make run
+	This command will run the same program in the shell from which this process was called. 
