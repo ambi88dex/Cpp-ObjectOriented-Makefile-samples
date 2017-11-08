@@ -1,0 +1,17 @@
+PROBLEM STATEMENT:- For a given no. of vertices and edges of a graph, determine the number of ways in which graphs can be uniquely coloured.
+
+INPUT:- V: Number of vertices in the graph.
+		E: Number of edges in the graph.
+		M: Number of colours available to colour the graph.
+
+OUTPUT:- Mentioned in the problem statement
+
+Graph.cpp:- In this file the the basic graph structure is been implemented.
+
+Edge.cpp:- Edge class implementation
+
+Vertices.cpp :- Vertices class Implemenation
+
+inp:- input file to be feeded to the program at run time using command make run
+
+Refer to Makefile for the dependencies among the files.

@@ -1,0 +1,8 @@
+This examples is used to demonstrate Operator overloading, virtual functions, abstract classes (Quadrilateral ,Shape),friend functions.
+
+Seperate compilation done by Makefile.
+
+to compile the program execute the following command in Ubuntu terminal after opening it in the project directory.
+
+1.To Compile :- make
+2.To Run :- ./compile
